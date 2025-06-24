@@ -1,10 +1,11 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<p align="center">A passionate [your role, e.g. Web Developer, Data Scientist etc.] from [Your Country]</p>
+<h1 align="center">Hi there 👋, I'm AL EMRAN</h1>
+<p align="center">CTO at Farmland Venture Ltd — Full Stack Developer from Dhaka, Bangladesh</p>
 
 <p align="center">
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/al_emran_24"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X"/></a>
+  <a href="mailto:al.emran.life@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/al-emran-life"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://facebook.com/Al.Emran.24"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 ---
@@ -15,39 +16,41 @@
 |--------------|----------------|
 | ![GitHub stats](https://github-readme-stats-xi-eight-56.vercel.app/api?username=al-emran-bdtechstore&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats-xi-eight-56.vercel.app/api/top-langs/?username=al-emran-bdtechstore&layout=compact&theme=tokyonight) |
 
-
 ---
 
-### 🛠️ Technologies & Tools I Use:
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <!-- Add more icons as you like -->
-</p>
+#### 📱 Mobile App Development:
+- Java, Kotlin, Flutter
+
+#### 🌐 Web Development:
+- Laravel, Raw PHP, HTML, CSS, JS, Tailwind CSS
+
+#### 🧠 Roles:
+- Frontend, Backend, REST API Development
+
+#### 🗃️ Database:
+- MySQL, Firebase, SQLite
 
 ---
 
 ### 📫 Contact Me:
 
-- Email: you@example.com
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [al.emran.life@gmail.com](mailto:al.emran.life@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/al-emran-life](https://linkedin.com/in/al-emran-life)
+- 🐦 X / Twitter: [x.com/al_emran_24](https://x.com/al_emran_24)
+- 📘 Facebook: [facebook.com/Al.Emran.24](https://facebook.com/Al.Emran.24)
 
 ---
 
 ### 🧮 Profile Visitor Count:
 
-![Visitor Count](https://komarev.com/ghpvc/?username=farml&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=al-emran-bdtechstore&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-### ☕ Support Me:
+### ☕ Support Me
 
-If you like my work, consider donating to support:
+If you like my work, feel free to connect or support. 😊
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/yourpaypal)
-
-
+<!-- Optional PayPal or BuyMeACoffee can be added here -->
