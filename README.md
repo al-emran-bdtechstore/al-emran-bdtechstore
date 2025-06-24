@@ -15,6 +15,13 @@
 |--------------|----------------|
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farml&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farml&layout=compact&theme=tokyonight) |
 
+### 🔥 GitHub Stats
+
+| GitHub Stats | Top Languages |
+|--------------|----------------|
+| ![GitHub stats](https://github-readme-stats-xi-eight-56.vercel.app/api?username=al-emran-bdtechstore&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats-xi-eight-56.vercel.app/api/top-langs/?username=al-emran-bdtechstore&layout=compact&theme=tokyonight) |
+
+
 ---
 
 ### 🛠️ Technologies & Tools I Use:
