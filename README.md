@@ -26,11 +26,14 @@
 #### 🌐 Web Development:
 - Laravel, NextJs, Raw PHP, HTML, CSS, JS, Tailwind CSS
 
+#### 🗃️ Database & Caching:
+- PostgreSQL, MySQL, SQLite,  Firebase, Redis
+
+#### 🛠️ Packgae And plugin:
+- Revarb, Pusher, Sanctum
+
 #### 🧠 Roles:
 - Frontend, Backend, REST API Development
-
-#### 🗃️ Database:
-- MySQL, Firebase, SQLite
 
 ---
 
