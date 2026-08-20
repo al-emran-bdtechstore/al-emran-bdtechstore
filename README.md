@@ -24,7 +24,7 @@
 - Java, Kotlin, Flutter
 
 #### 🌐 Web Development:
-- Laravel, Raw PHP, HTML, CSS, JS, Tailwind CSS
+- Laravel, NextJs, Raw PHP, HTML, CSS, JS, Tailwind CSS
 
 #### 🧠 Roles:
 - Frontend, Backend, REST API Development
